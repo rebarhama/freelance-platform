@@ -38,7 +38,8 @@ A web-based freelance system is an online platform that connects freelancers and
 
 #### User Dashboard:
 
-[freelance](https://raw.githubusercontent.com/rebarhama/freelance-platform/main/user-registration-form.png)
+
+![freelance](https://raw.githubusercontent.com/rebarhama/freelance-platform/main/user-registration-form.png)
 
 ![freelance](https://raw.githubusercontent.com/rebarhama/freelance-platform/main/user-set-username.png)
 
@@ -53,7 +54,6 @@ A web-based freelance system is an online platform that connects freelancers and
 ![freelance](https://raw.githubusercontent.com/rebarhama/freelance-platform/main/user-portfolio.png)
 
 
-![freelance](https://raw.githubusercontent.com/rebarhama/freelance-platform/main/user-dashboard.png)
 
 
 !
